@@ -3,3 +3,13 @@
 
  ### Tutorial Guide
  https://testautomationu.applitools.com/cypress-getting-started/
+
+ ### Cypress Setup
+ ```
+ npm init -y
+ npm install cypress
+ ```
+ ### To Open Cypress UI
+ ```
+ npx cypress open
+ ```
