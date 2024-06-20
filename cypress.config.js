@@ -9,6 +9,9 @@ module.exports = defineConfig({
     // viewportHeight: 550,
     // viewportWidth: 660,
     experimentalStudio: true,
+    
+    //to disable autorun
+    // "watchForFileChanges": false
   },
 });
 
